@@ -1,0 +1,22 @@
+# Ignore all text files
+*.txt
+
+# Ignore setup configuration
+setup.json
+
+# Logs
+*.log
+
+# Windows junk
+Thumbs.db
+Desktop.ini
+
+# PowerShell history
+*.ps1xml
+
+# VSCode
+.vscode/
+
+# Temporary files
+*.tmp
+*.temp
