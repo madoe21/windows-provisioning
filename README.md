@@ -1,5 +1,7 @@
 # Windows Provisioning Toolkit
 
+[![Built with aiflow](https://img.shields.io/badge/built%20with-aiflow-6b46c1)](https://github.com/cyber93de/aiflow)
+
 A lightweight automation toolkit for provisioning Windows systems.
 
 This tool can:
