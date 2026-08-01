@@ -1,5 +1,7 @@
 # Windows Provisioning Toolkit
 
+[![Built with aiflow](https://img.shields.io/badge/built%20with-aiflow-6b46c1)](https://github.com/cyber93de/aiflow)
+
 A lightweight automation toolkit for provisioning Windows systems.
 
 This tool can:
@@ -106,3 +108,8 @@ I appreciate everyone who supports me and the project! For any requests and sugg
     <img src="https://www.paypalobjects.com/webstatic/mktg/logo/pp_cc_mark_111x69.jpg" height="50" alt="PayPal">
   </a>
 </p>
+---
+
+## Built with aiflow
+
+This project was built with support from **[aiflow](https://cyber93de.github.io/aiflow/)** — *built with aiflow*.
