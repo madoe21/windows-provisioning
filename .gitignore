@@ -20,3 +20,5 @@ Desktop.ini
 # Temporary files
 *.tmp
 *.temp
+# aiflow project-update keeps your customised file as <file>.bak before replacing it
+*.bak
